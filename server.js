@@ -25,6 +25,6 @@ app.use(home)
 app.use(apiroutes)
 
 
-app.listen(3000, () => {
+app.listen(PORT, () => {
   console.log("App running on port 3000!");
 });
