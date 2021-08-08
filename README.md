@@ -19,7 +19,8 @@ Workout Tracker is an application using ```MongoDB``` to keep a record of the ex
 ![Fitness Chart](https://user-images.githubusercontent.com/77472152/128641481-3f7a69f8-3edf-4e11-929c-8176ab6f1fa4.png)
 
 
-## Contact Info
+## Links
 
+Deployed App: [Fitness Tracker](https://murmuring-temple-83674.herokuapp.com/)
 Portfolio: [Adrian Aguilar](https://ascension23.github.io/Portfolio3/) <br>
 GitHub: [Ascension23](https://github.com/Ascension23)
