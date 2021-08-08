@@ -21,5 +21,5 @@ Workout Tracker is an application using ```MongoDB``` to keep a record of the ex
 
 ## Contact Info
 
-[Adrian Aguilar](https://ascension23.github.io/Portfolio3/) <br>
-[GitHub](https://github.com/Ascension23)
+Portfolio: [Adrian Aguilar](https://ascension23.github.io/Portfolio3/) <br>
+GitHub: [Ascension23](https://github.com/Ascension23)
